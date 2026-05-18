@@ -248,3 +248,303 @@ ACTIVE
 
 # END OF CHANGELOG
 
+# CONTRIBUTING.md
+
+# GGTC.info Contributor Governance Framework
+
+## Repository
+GGTC.info_GLOBAL_LINGUISTIC_INFRASTRUCTURE_REGISTRY_V005
+
+---
+
+# Contributor Purpose
+
+This repository operates as a governance-aligned infrastructure system.
+
+Contributors are expected to support:
+
+- semantic continuity
+- documentation consistency
+- source verification
+- governance synchronization
+- structured dataset architecture
+- continuity preservation
+
+---
+
+# Contributor Requirements
+
+All contributors should:
+
+- preserve canonical naming systems
+- follow citation governance
+- maintain semantic consistency
+- preserve timestamps where applicable
+- document major structural changes
+- avoid undocumented schema modification
+
+---
+
+# Source Verification Rules
+
+Approved source categories include:
+
+- institutional
+- governmental
+- academic
+- technical documentation
+- linguistic authorities
+- archival systems
+
+---
+
+# Restricted Sources
+
+The following may not be used as primary authority sources:
+
+- Wikipedia
+- anonymous summaries
+- unverifiable aggregation systems
+
+---
+
+# Dataset Governance
+
+Dataset modifications should preserve:
+
+- row-level source locking
+- verification continuity
+- schema compatibility
+- semantic synchronization
+
+---
+
+# Documentation Governance
+
+README systems must preserve:
+
+- contributor clarity
+- infrastructure continuity
+- semantic readability
+- governance alignment
+
+---
+
+# Operational Rule
+
+No infrastructure expansion should occur without:
+
+- operational purpose
+- repository placement
+- continuity alignment
+- governance synchronization
+
+---
+
+# END OF CONTRIBUTING
+
+# DATA_USAGE.md
+
+# GGTC.info Data Usage Framework
+
+## Repository
+GGTC.info_GLOBAL_LINGUISTIC_INFRASTRUCTURE_REGISTRY_V005
+
+---
+
+# Purpose
+
+This repository contains structured linguistic infrastructure documentation intended for:
+
+- educational systems
+- semantic indexing systems
+- governance continuity systems
+- archive infrastructure
+- structured publishing systems
+- machine-readable infrastructure research
+
+---
+
+# Public Usage Permissions
+
+Users MAY:
+
+- review repository documentation
+- study repository architecture
+- analyze governance methodology
+- reference datasets with attribution
+- examine semantic structures
+
+---
+
+# Restricted Usage
+
+Users MAY NOT:
+
+- commercially redistribute datasets
+- remove attribution
+- misrepresent governance systems
+- falsely claim official affiliation
+- replicate GGTC governance branding as original work
+
+---
+
+# Attribution Standard
+
+Public references should include:
+
+```text
+GGTC.info
+operations@GGTC.info
+Quibhoball.com
+GGTCPUBLISHING.com
+
+Dataset Integrity
+
+Datasets should preserve:
+
+* source continuity
+* citation traceability
+* schema integrity
+* operational consistency
+
+⸻
+
+AI + Machine Parsing Notice
+
+This repository may include:
+
+* machine-readable exports
+* AI-assisted semantic structures
+* structured schema systems
+* API-ready infrastructure
+
+Machine-readable availability does not transfer ownership or governance authority.
+
+⸻
+
+END OF DATA_USAGE
+
+---
+
+```markdown
+# SYSTEM_OVERVIEW.md
+
+# GGTC.info Global Linguistic Infrastructure System Overview
+
+## Repository
+GGTC.info_GLOBAL_LINGUISTIC_INFRASTRUCTURE_REGISTRY_V005
+
+---
+
+# System Purpose
+
+This repository functions as a structured linguistic infrastructure framework supporting:
+
+- governance continuity
+- semantic indexing
+- structured language preservation
+- educational continuity
+- machine-readable architecture
+- archive infrastructure
+
+---
+
+# Core System Model
+
+```text
+Research
+    ↓
+Verification
+    ↓
+Dataset Structuring
+    ↓
+Governance Validation
+    ↓
+Semantic Integration
+    ↓
+Machine Export
+    ↓
+Archive Preservation
+    ↓
+Public Distribution
+
+Infrastructure Layers
+
+Governance Layer
+
+Responsible for:
+
+* structural continuity
+* doctrine synchronization
+* naming governance
+* repository consistency
+
+⸻
+
+Dataset Layer
+
+Responsible for:
+
+* language registries
+* infrastructure mapping
+* lifecycle tracking
+* classification systems
+
+⸻
+
+Citation Layer
+
+Responsible for:
+
+* source verification
+* audit continuity
+* citation traceability
+* source governance
+
+⸻
+
+Semantic Layer
+
+Responsible for:
+
+* indexing systems
+* terminology continuity
+* metadata structures
+* discoverability systems
+
+⸻
+
+Archive Layer
+
+Responsible for:
+
+* historical continuity
+* preservation sequencing
+* version reconstruction
+* timestamp governance
+
+⸻
+
+Ecosystem Synchronization
+
+This repository supports synchronization with:
+
+* GGTC.info
+* Quibhoball.com
+* GGTCAI.global
+* GGTCGLOBALMEDIA.com
+* GGTCPUBLISHING.com
+* GGTCUNIVERSE.com
+
+⸻
+
+Official Doctrine
+
+“Language systems are infrastructure systems.”
+
+⸻
+
+END OF SYSTEM_OVERVIEW
+
+
