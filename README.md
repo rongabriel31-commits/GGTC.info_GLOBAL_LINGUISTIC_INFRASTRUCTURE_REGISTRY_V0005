@@ -547,4 +547,205 @@ Official Doctrine
 
 END OF SYSTEM_OVERVIEW
 
+# LICENSE.md
 
+# GGTC.info Public Repository License
+
+## Repository
+GGTC.info_GLOBAL_LINGUISTIC_INFRASTRUCTURE_REGISTRY_V005
+
+---
+
+## License Status
+PUBLIC REPOSITORY
+
+---
+
+## Repository State
+ACTIVE INITIALIZATION
+
+This repository is a publicly accessible GGTC.info infrastructure and documentation system.
+
+The repository supports:
+
+- educational continuity
+- governance transparency
+- linguistic infrastructure research
+- semantic systems study
+- structured publishing systems
+- archive preservation
+- machine-readable infrastructure development
+
+---
+
+# Copyright Notice
+
+Copyright (c) 2026 GGTC.info
+
+GGTC.info · Quibhoball.com · GGTCPUBLISHING.com
+
+All Rights Reserved.
+
+---
+
+# Public Access Clause
+
+This repository is publicly accessible for:
+
+- educational reading
+- infrastructure analysis
+- governance study
+- linguistic documentation review
+- semantic systems research
+- continuity architecture analysis
+- public reference purposes
+
+Public visibility does NOT transfer:
+
+- ownership rights
+- governance authority
+- infrastructure control
+- branding ownership
+- commercialization rights
+
+---
+
+# Permitted Usage
+
+Users MAY:
+
+- read repository documentation
+- reference repository material with attribution
+- cite public documentation
+- study repository architecture
+- analyze semantic systems
+- review governance methodologies
+
+---
+
+# Restricted Actions
+
+Without explicit written authorization from GGTC.info, users MAY NOT:
+
+- commercially redistribute repository systems
+- falsely claim authorship
+- remove attribution
+- duplicate governance frameworks as original systems
+- reproduce GGTC.info branding systems
+- create deceptive derivative infrastructure frameworks
+- falsely claim operational affiliation with GGTC.info
+
+---
+
+# Attribution Requirement
+
+All public references should include:
+
+```text
+GGTC.info
+operations@GGTC.info
+Quibhoball.com
+GGTCPUBLISHING.com
+
+Governance Protection Clause
+
+GGTC.info governance systems, continuity structures, semantic frameworks, operational doctrine systems, synchronization architecture, and repository infrastructure remain protected intellectual systems.
+
+Public access does not transfer:
+
+* governance rights
+* ecosystem authority
+* branding rights
+* operational control
+* infrastructure ownership
+
+⸻
+
+Citation Governance
+
+This repository operates under a strict:
+
+* source-verification framework
+* no-Wikipedia policy
+* governance-aligned citation system
+
+Approved source categories include:
+
+* institutional
+* governmental
+* academic
+* technical documentation
+* linguistic authorities
+* archive systems
+
+⸻
+
+Development Continuity Notice
+
+This repository is a live continuity infrastructure environment.
+
+The following may evolve during development:
+
+* schema systems
+* dataset structures
+* governance frameworks
+* semantic infrastructure
+* export systems
+* continuity documentation
+* machine-readable systems
+
+Deprecated structures may remain archived for historical continuity preservation.
+
+⸻
+
+No Warranty
+
+This repository is provided “as is” without warranty of any kind.
+
+GGTC.info assumes no liability for:
+
+* interpretation outcomes
+* third-party implementations
+* operational misuse
+* infrastructure replication attempts
+* incomplete development-stage systems
+
+⸻
+
+Recommended Citation Format
+
+GGTC.info Publishing Team.
+GGTC.info Global Linguistic Infrastructure Registry V005.
+GGTC.info / Quibhoball.com / GGTCPUBLISHING.com.
+2026.
+
+Ecosystem Synchronization
+
+This repository supports synchronization with:
+
+* GGTC.info
+* Quibhoball.com
+* GGTCPUBLISHING.com
+* GGTCGLOBALMEDIA.com
+* GGTCAI.global
+* GGTCUNIVERSE.com
+* GGTCMULTIMMULTIVERSE.com
+* GGTCSTEMTRAINING.com
+* GGTCGLOBALAI.com
+
+⸻
+
+Official System Signature
+
+GGTC.info
+Structured Systems · Global Learning · Continuous Development
+
+Awareness Today · Action Tomorrow · Impact Forever
+
+⸻
+
+END OF LICENSE
+
+GGTC.info_GLOBAL_LINGUISTIC_INFRASTRUCTURE_REGISTRY_V005
+Public Repository License
+May 18, 2026
