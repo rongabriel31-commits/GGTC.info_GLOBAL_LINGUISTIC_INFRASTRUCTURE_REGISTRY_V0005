@@ -146,3 +146,105 @@ GGTC.info_GLOBAL_LINGUISTIC_INFRASTRUCTURE_REGISTRY_V005/
     ├── diagrams/
     ├── visual-governance/
     └── infrastructure/
+
+Citation Governance
+
+No Wikipedia Policy
+
+Wikipedia sources are not permitted as primary authority sources.
+
+Approved Source Categories
+
+* institutional
+* governmental
+* academic
+* technical documentation
+* linguistic authorities
+* archive systems
+
+Approved Core Sources
+
+* Ethnologue
+* UNESCO World Atlas of Languages
+* Glottolog
+* WALS
+* Library of Congress
+* Endangered Languages Project
+
+⸻
+
+Official System Signature
+
+GGTC.info
+Structured Systems · Global Learning · Continuous Development
+
+Awareness Today · Action Tomorrow · Impact Forever
+
+⸻
+
+END OF README
+
+GGTC.info_GLOBAL_LINGUISTIC_INFRASTRUCTURE_REGISTRY_V005
+Canonical Global Linguistic Infrastructure Registry
+May 18, 2026
+
+# CHANGELOG.md
+
+# GGTC.info Global Linguistic Infrastructure Registry Changelog
+
+## Repository
+GGTC.info_GLOBAL_LINGUISTIC_INFRASTRUCTURE_REGISTRY_V005
+
+---
+
+# Version History
+
+| Version | Date | Status | Description |
+|---|---|---|---|
+| V005 | May 18, 2026 | ACTIVE INITIALIZATION | Initial public governance + linguistic infrastructure framework established |
+
+---
+
+# May 18, 2026 — Initialization Entry
+
+## GGTC.info Time
+15:47
+
+## Entry Type
+Repository Build Expansion
+
+## Status
+ACTIVE
+
+---
+
+## Infrastructure Added
+
+- governance framework
+- linguistic registry architecture
+- semantic continuity structure
+- citation governance systems
+- machine export architecture
+- dataset hierarchy
+- continuity documentation
+- glossary systems
+- indexing infrastructure
+
+---
+
+## Current Operational State
+
+| System | Status |
+|---|---|
+| Governance Systems | ACTIVE |
+| Dataset Structure | INITIALIZING |
+| Semantic Systems | CONNECTED |
+| Citation Governance | ENABLED |
+| Archive Continuity | ACTIVE |
+| Navigation Infrastructure | ACTIVE |
+| Machine Export Layer | PLANNED |
+
+---
+
+# END OF CHANGELOG
+
